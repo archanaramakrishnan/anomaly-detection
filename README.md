@@ -1,7 +1,7 @@
 # anomaly-detection
 EECS 731 Data Science | Project 6 - D(St)reams of Anomalies
 
-Navigate to **notebooks > DreamsOfAnomalies.ipynb to view the Jupyter Notebook**
+Navigate to **notebooks > [DreamsOfAnomalies.ipynb](https://github.com/archanaramakrishnan/anomaly-detection/blob/master/notebooks/DreamsOfAnomalies.ipynb) to view the Jupyter Notebook**
 
 # Introduction to Data Science, Project 6: D(St)reams of Anomalies
 ------------
