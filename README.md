@@ -2,6 +2,7 @@
 EECS 731 Data Science | Project 6 - D(St)reams of Anomalies
 
 Navigate to **notebooks > [DreamsOfAnomalies.ipynb](https://github.com/archanaramakrishnan/anomaly-detection/blob/master/notebooks/DreamsOfAnomalies.ipynb) to view the Jupyter Notebook**
+I used Local Outlier Factor and Isolation Forest models to detect anomalies in the key hold data which indicate the change in users. LOF gave much better results than Isolation Forest.
 
 # Introduction to Data Science, Project 6: D(St)reams of Anomalies
 ------------
